@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/captcha",
+    "name": "ahead4/captcha",
     "type": "captcha",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
